@@ -16,11 +16,24 @@
 ---
 
 ## 🛠️ Tech Stack
-<p>
-<img src="https://skillicons.dev/icons?i=python,fastapi,django,flask,react,postgres,mysql,git,github,vscode" />
+
+<p align="center">
+  <!-- Core Development -->
+  <img src="https://skillicons.dev/icons?i=python,django,flask,fastapi,react,postgres,mysql,git,github,vscode" />
 </p>
 
----
+<p align="center">
+  <!-- Advanced & Tools -->
+  <img src="https://skillicons.dev/icons?i=docker,aws,nodejs" />
+</p>
+
+<p align="center">
+  <!-- Custom Skills -->
+  <img src="https://img.icons8.com/color/48/artificial-intelligence.png" title="AI & Machine Learning"/>
+  <img src="https://img.icons8.com/color/48/api.png" title="REST API Development"/>
+  <img src="https://img.icons8.com/color/48/database.png" title="Database Management"/>
+  <img src="https://img.icons8.com/color/48/learning.png" title="Continuous Learning / Courses"/>
+</p>
 
 ## 🚀 Featured Projects
 - 🧠 **AI Resume Analyzer**
