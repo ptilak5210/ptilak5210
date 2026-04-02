@@ -1,16 +1,37 @@
-## Hi there 👋
+# 👋 Hi, I'm Tilak Patel
 
-<!--
-**ptilak5210/ptilak5210** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Python Developer | Backend Engineer | AI Enthusiast  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💡 About Me
+- 💻 Skilled in FastAPI, Flask, Django  
+- 🔗 Experience in REST APIs & Automation  
+- 🤖 Built AI-powered applications  
+- 📈 Passionate about scalable backend systems  
+
+---
+
+## 🛠️ Tech Stack
+- **Backend:** FastAPI, Flask, Django  
+- **Frontend:** React.js  
+- **Database:** PostgreSQL, MySQL, Supabase  
+- **Tools:** Git, GitHub, Postman, VS Code  
+
+---
+
+## 🚀 Projects
+- 🧠 AI Resume Analyzer  
+- 👨‍💼 HRFlow – Employee Management System  
+- 📱 SalesAI – WhatsApp CRM  
+
+---
+
+## 📊 GitHub Stats
+![Tilak's GitHub stats](https://github-readme-stats.vercel.app/api?username=ptilak5210&show_icons=true)
+
+---
+
+## 📫 Contact Me
+📧 ptilak5210@gmail.com  
+📍 Ahmedabad, India  
