@@ -44,9 +44,8 @@
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=ptilak5210" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ptilak5210&theme=tokyonight" />
 </p>
-
 ---
 
 ## 🔥 Contribution Streak
